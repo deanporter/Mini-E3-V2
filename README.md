@@ -1,3 +1,1 @@
-# Firmware for the BigTree Technology SKR Mini E3 V2 and TFT35 V3.0 Touch Screen Display
-
- 
+My Marlin version of the Firmware for the BigTree Technology SKR Mini E3 V2
